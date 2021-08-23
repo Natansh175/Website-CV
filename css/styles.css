@@ -1,0 +1,106 @@
+/****************************TAG SELECTORSr****************************/
+
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  background-color: #EAF6F6;
+  border-style: dotted none none;
+  width: 10%;
+  border-width: 5px;
+  border-color: grey;
+}
+
+h1 {
+  font-family: monospace;
+  color: #51C2D5;
+}
+
+h2 {
+  color: #CF0000;
+}
+
+a {
+  color: #120078;
+}
+
+/****************************CLASS SELECTORSr****************************/
+
+.Link:link, .Link:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.Link:hover {
+  background-color: #000000;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.TB {
+  padding-left: 38%;
+}
+
+.TD {
+  padding-left: 0.5cm;
+}
+
+.Enter {
+  background-color: grey;
+  color: black;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.Enter:hover {
+  background-color: #f44336;
+  color: black;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.H2 {
+  font-size: 25px;
+}
+
+.SM {
+  font-size: 20px;
+}
+
+.CAndS:hover {
+  color: #0D7377;
+}
+
+.H3 {
+  font-size: 22px;
+}
+
+.SM_Link:hover {
+  color: #0D7377;
+}
+
+.Info {
+  font-size: 20px;
+}
+
+/****************************ID SELECTORSr****************************/
+
+#H2 {
+  padding-left: 44%;
+}
+
+#P {
+  padding-top: 21.5%;
+}
